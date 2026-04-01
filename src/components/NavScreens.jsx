@@ -56,7 +56,7 @@ export function TitleScreen({ onStart, hasSave, onContinue }) {
         </div>
         <p style={{ color:"rgba(255,255,255,0.22)", fontSize:11, marginTop:36,
           fontFamily:"'Nunito',sans-serif" }}>
-          v0.5 beta · Progress saves automatically
+          v0.5 beta · Progress saves automatically · By Claire
         </p>
       </div>
     </div>
